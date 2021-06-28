@@ -88,3 +88,5 @@ We can make the dynamic webpage more user-friendly, therefore the recommendation
    - Export filtered data as a resource for those who want to use this set of data later.
    - Change date to a period of time for example from 1/1/2010 -1/5/2010 which makes more facilities to the users.
    - Shorten the text inside the paragraph and add a "show more" link instead for those looking for more information.
+
+   The web app is available by ![this link](https://halmasieh.github.io/UFOs/).
