@@ -73,7 +73,7 @@ We can make the dynamic webpage more user-friendly, therefore the recommendation
    - Create other attractions like acount menu that includes email and name like: 
 
 
-<img src="https://github.com/halmasieh/UFOs/blob/main/Account.PNG" width="300" height="200"  />
+<img src="https://github.com/halmasieh/UFOs/blob/main/Images/Account.PNG" width="300" height="200"  />
 
 
    - Add the link to connect to Facebook, Linkdedln, Cloud and so on. 
